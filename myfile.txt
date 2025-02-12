@@ -1,0 +1,19 @@
+    1  ls
+    2  dir
+    3  ls
+    4  cd [200~C:\Users\2387807\gitdemo~
+    5  cd gitdemo
+    6  ls
+    7  git ls
+    8  ls
+    9  git status
+   10   git config --global --add safe.directory C:/Users/2387807/gitdemo
+   11  git status
+   12  git add --all
+   13  git status
+   14  git commit -m "message"
+   15  git status
+   16  git log
+   17  git history
+   18  history
+   19  history >> myfile.txt
